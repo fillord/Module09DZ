@@ -1,0 +1,7 @@
+C:\Users\qznur\source\repos\Module9DZ\Module9DZ\bin\Debug\Module9DZ.exe.config
+C:\Users\qznur\source\repos\Module9DZ\Module9DZ\bin\Debug\Module9DZ.exe
+C:\Users\qznur\source\repos\Module9DZ\Module9DZ\bin\Debug\Module9DZ.pdb
+C:\Users\qznur\source\repos\Module9DZ\Module9DZ\obj\Debug\Module9DZ.csproj.AssemblyReference.cache
+C:\Users\qznur\source\repos\Module9DZ\Module9DZ\obj\Debug\Module9DZ.csproj.CoreCompileInputs.cache
+C:\Users\qznur\source\repos\Module9DZ\Module9DZ\obj\Debug\Module9DZ.exe
+C:\Users\qznur\source\repos\Module9DZ\Module9DZ\obj\Debug\Module9DZ.pdb
